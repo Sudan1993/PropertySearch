@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri May 11 16:00:49 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0163-4ec0-d03a-000015597778 
+on database directory memory:C:\Users\sudaraje\Downloads\spring-boot-web-thymeleaf\testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/sudaraje/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_152-b16
+user.dir=C:\Users\sudaraje\Downloads\spring-boot-web-thymeleaf
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

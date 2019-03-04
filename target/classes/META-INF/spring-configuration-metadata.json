@@ -1,0 +1,9 @@
+{
+  "groups": [{
+    "name": "oracle",
+    "type": "com.sudaraje.OracleConfiguration",
+    "sourceType": "com.sudaraje.OracleConfiguration"
+  }],
+  "properties": [],
+  "hints": []
+}
